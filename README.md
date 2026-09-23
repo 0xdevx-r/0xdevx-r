@@ -52,9 +52,6 @@
   <img src="assets/githubgif.gif" width="200" />
 </div>
 
-## 📉 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevx-r&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
-
 ## 🏆 Achievements
 
 <p align="center">
