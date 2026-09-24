@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 
+# 👋 Hey, I’m 0xdevx.
 
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 
@@ -15,7 +15,6 @@
 
 ## 🧠 About Me
 
-Hey, I’m 0xdevx.
 
 I build Backend stuff with Python.
 
@@ -28,6 +27,8 @@ Just here to get better at writing software that doesn't fall apart when someone
 Mostly Python. occasionally confused!
 
 If you actually like my stuff and learning progress, hit the "Star thingie" to bookmark the repo for your references. Cheers!!
+
+
 ---
 
 ## ⚡ Tech Stack
