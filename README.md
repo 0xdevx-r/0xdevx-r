@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hey there, RZ here!
+# 👋 
 
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 
@@ -15,11 +15,19 @@
 
 ## 🧠 About Me
 
-- Building a solid foundation in Python  
-- Practicing Data Structures to improve problem-solving  
-- Focused on writing clean, maintainable code  
-- Prioritizing depth of knowledge over quick outcomes  
+Hey, I’m 0xdevx.
 
+I build Backend stuff with Python.
+
+Currently learning my way through APIs, databases, DSA, Linux and the occasional bug that makes absolutely no sense.
+
+Not here to pretend I know everything.
+
+Just here to get better at writing software that doesn't fall apart when someone actually uses it.
+
+Mostly Python. occasionally confused!
+
+If you actually like my stuff and learning progress, hit the "Star thingie" to bookmark the repo for your references. Cheers!!
 ---
 
 ## ⚡ Tech Stack
