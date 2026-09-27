@@ -1,108 +1,35 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="banner.gif.gif" width="100%">
-
-<div align="center">
-
-# 👋 Hey, I’m 0xdevx.
-
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+DSA;Building+Cool+Projects" 
-/>
-
-</div>
-
----
-
-## 🧠 About Me
-
-
-I build Backend stuff with Python.
-
-Currently learning my way through APIs, databases, DSA, Linux and the occasional bug that makes absolutely no sense.
-
-Not here to pretend I know everything.
-
-Just here to get better at writing software that doesn't fall apart when someone actually uses it.
-
-Mostly Python. occasionally confused!
-
-If you actually like my stuff and learning progress, hit the "Star thingie" to bookmark the repo for your references. Cheers!!
-
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
-</div>
-
----
-
-## ⚡ Stats Of Obsession
-
----
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=0xDevX-R&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Backend%20Dev&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevx-r&border=true&border_color=00ACC1&theme=aura&disable_animations=true&v=1" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xdevx-r&theme=aura&v=1" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdevx-r&theme=aura&v=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdevx-r&theme=aura&v=1" /><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xdevx-r&theme=aura&v=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xdevx-r&theme=aura&utcOffset=8&v=1" />
-</p>
-
-<hr>
-
-<div align="center">
-  <img src="assets/githubgif.gif" width="200" />
-</div>
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xdevx-r&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=-1" />
-</p>
-
-## 🐍 Contribution Snake
-
-<img width="100%" src="https://raw.githubusercontent.com/newbeetoveteran/newbeetoveteran/output/snake.svg" />
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://instagram.com/0xdevx">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
-</div>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://ko-fi.com/0xdevx">
-    <img src="https://storage.ko-fi.com/cdn/fullLogoKofi.png" width="150"/>
+  <a href="https://komarev.com/ghpvc/?username=0xdevx-r">
+    <img src="https://komarev.com/ghpvc/?username=0xdevx-r&label=Profile%20views&color=00FFFF&style=flat-square" alt="0xdevx-r's profile views" />
   </a>
 </p>
 
----
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
-## 👀 Visitors
+## 📌 About Me
+- I build backend stuff..
+- Currently learning my way through APIs, databases, DSA, Linux and the occasional bug that makes absolutely no sense.
 
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=newbeetoveteran&label=Profile%20views&color=8B5CF6&style=flat" />
+  <a href="https://github.com/0xdevx-r">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xdevx-r&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="0xdevx-r's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=0xdevx-r&theme=radical&hide_border=true&cache_seconds=86400" alt="0xdevx-r's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=0xdevx-r&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="0xDevX-R's GitHub Trophies" />
 </p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:FFFFFF&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
