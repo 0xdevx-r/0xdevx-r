@@ -24,7 +24,6 @@
   <img src="https://trophy.ryglcloud.net/?username=0xdevx-r&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="0xDevX-R's GitHub Trophies" />
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
